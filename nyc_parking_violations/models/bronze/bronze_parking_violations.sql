@@ -19,5 +19,6 @@ SELECT
     violation_legal_code,
     vehicle_color,
     vehicle_year,
+    summons_number
 FROM
-    parking_violations_2023
+    parking_violation_2023
